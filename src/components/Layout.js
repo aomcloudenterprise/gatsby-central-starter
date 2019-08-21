@@ -26,9 +26,9 @@ const Layout = ({ children }) => (
           meta={[
             {
               name: 'description',
-              content: 'Starter for GatsbyJS by Gatsby Central',
+              content: 'Hosting panel base for AOM Cloud Enterprise Group',
             },
-            { name: 'keywords', content: 'gatsbyjs,gatsby,starter' },
+            { name: 'keywords', content: 'gatsbyjs,gatsby,starter,AOM Cloud Enterprise Group, AOM Cloud Enterprise, AOM Cloud Web Hosting, AOM Nextcloud Storage,Affiliate Online Marketing Platform' },
           ]}
         >
           <html lang="en" />
