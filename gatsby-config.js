@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Central Starter',
-    siteUrl: 'https://gatsby-central.starter.netlify.com',
+    title: 'AOM Cloud Enterprise',
+    siteUrl: 'https://aomcloudenterprise.netlify.com',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
