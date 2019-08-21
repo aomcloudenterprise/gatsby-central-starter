@@ -5,9 +5,9 @@ import Layout from '../components/Layout'
 
 const IndexPage = () => (
   <Layout>
-    <Heading>Hi people</Heading>
-    <Text>This is our starter project for GatsbyJS</Text>
-  </Layout>
+    <Heading>Panel @ AOM Cloud Enterprise</Heading>
+    <Text>Authourized Personel Only</Text>
+  </Layout>>
 )
 
 export default IndexPage
